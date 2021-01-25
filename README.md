@@ -1,6 +1,20 @@
 # Password Generator
+<img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath"> <img src="https://img.shields.io/badge/Made%20With-Javascript-red/relativePath">  
 
+## Description: 
 I Created an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by JavaScript. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
+
+## Table Of Contents:
+  * [Installation](#installation)
+  * [User Story](#userstory)
+  * [Technologies Used](#technologiesused)
+  * [Future Development](#futuredevelopment)
+  * [Credits](#credits)
+  * [License](#license)
+  * [Questions](#questions) 
+
+## Installation: 
+You can "git clone" this repository onto your local machine, and run the HTML file in your web browser.   
 
 ## User Story
 
@@ -29,8 +43,19 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+## Technologies Used: 
+<img src="https://img.shields.io/badge/Made%20With-HTML-brightgreen/relativePath"> <img src="https://img.shields.io/badge/Made%20With-CSS-yellow/relativePath"> <img src="https://img.shields.io/badge/Made%20With-Javascript-red/relativePath">  
 
 The following image demonstrates the application functionality:
 
 ![password generator demo](./Assets/demo.png)
+
+## Future Developments:
+Finishing the Application and adding functionality
+
+## License: 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Questions: 
+For any additional questions, can be reached through GitHub: Hamza Tanveer (https://github.com/swimmaison)
 
